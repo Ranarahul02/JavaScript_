@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    padding-top: 10px;
+}
+.container{
+    height: 400px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+label{
+    margin-left: 3px;
+}
+#height{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#weight{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+button{
+    width: 90%;
+    font-size: small;
+    font-weight: 530;
+    margin: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(5, 37, 153);
+    padding: 3px;
+    background-color: rgb(29, 161, 181);
+    color: rgb(2, 12, 16);
+}
+#result{
+    text-align: center;
+}
+.weight-guide{
+    text-align: center;
+}

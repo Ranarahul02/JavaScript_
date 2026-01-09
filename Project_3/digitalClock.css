@@ -1,0 +1,20 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock{
+    height: 30px;
+    width: 150px;
+    background-color: aquamarine;
+    border: 2px solid cornflowerblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 600;
+    font-size: larger;
+    padding-top: 10px;
+}
+

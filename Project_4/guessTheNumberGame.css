@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height: 500px;
+    width: 400px;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px gray;
+}
+#userInput{
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+#submit{
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
